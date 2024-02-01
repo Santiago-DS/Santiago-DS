@@ -1,12 +1,13 @@
-# Olá, meu nome é Gabriel
+# :green_heart: Olá, meu nome é Gabriel...💚
 Sou um entusiasta incansável por descobertas e apaixonado por tecnologia. Com uma mente curiosa e sempre aberta para abraçar o novo, encontrei minha paixão no vasto mundo do aprendizado de máquina.
 
 Atualmente, desempenho o papel de Cientista de Dados Jr. na FortBrasil, onde mergulho no desenvolvimento de modelos de machine learning. Minha jornada profissional inclui, principalmente, a contrução de estudos analíticos e modelos de machine learning.
 
+Meu Git ainda é um bebê, mas logo logo ele irá crescer.
+
+:green_heart:
 
 # Hard Skills
-
-
 <div>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
@@ -25,4 +26,15 @@ Atualmente, desempenho o papel de Cientista de Dados Jr. na FortBrasil, onde mer
 
 </div>
 
+# Status do meu Github
+
+
+
+
+ <div>
+ <p align="left">
+   <a href="https://github.com/letpires">
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Santiago-DS&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-DS&layout=compact&langs_count=16&theme=tokyonight"/>
+<div>
 
